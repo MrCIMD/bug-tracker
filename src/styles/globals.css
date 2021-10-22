@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Oliciy';
+  src: url('./../fonts/oliciy/Oliciy.ttf') format('ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
